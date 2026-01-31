@@ -4,7 +4,7 @@ Within each folder will be the resources I made and procured for demonstration o
 
 # Extra Stuff to be covered
 - animations and transitions
-- grid/box model and flex
+- grid and flexbox
 - js stuff
 - new html tags
 - new html elements like buttons and stuff

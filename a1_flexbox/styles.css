@@ -1,0 +1,39 @@
+.box {
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+}
+
+#box_container_1 {
+    height: 80vh;
+    border: 2px solid black;
+}
+
+#box_container_2 {
+    height: 80vh;
+    border: 2px solid black;
+    display: flex;
+}
+
+#box_container_3 {
+    height: 80vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: right;
+}
+
+#box_container_4 {
+    height: 80vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+#box_container_5 {
+    height: 80vh;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
